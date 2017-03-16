@@ -1,0 +1,6 @@
+Car         200000
+Iphone      4599
+Mac         10000
+Coffee      35
+Bicyle      1500
+T-shirt     599

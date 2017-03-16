@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python-work.iml" filepath="$PROJECT_DIR$/.idea/Python-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/Task/.idea/Task.iml" filepath="$PROJECT_DIR$/PycharmProjects/Task/.idea/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/hello/.idea/hello.iml" filepath="$PROJECT_DIR$/PycharmProjects/hello/.idea/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/ppmessage-lite-server/.idea/ppmessage-lite-server.iml" filepath="$PROJECT_DIR$/PycharmProjects/ppmessage-lite-server/.idea/ppmessage-lite-server.iml" />
+    </modules>
+  </component>
+</project>

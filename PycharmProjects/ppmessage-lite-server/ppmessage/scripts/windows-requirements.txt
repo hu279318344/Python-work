@@ -1,0 +1,10 @@
+backports-abc==0.5
+certifi==2017.1.23
+olefile==0.44
+Pillow==4.0.0
+pypinyin==0.16.1
+redis==2.10.5
+singledispatch==3.4.0.3
+six==1.10.0
+SQLAlchemy==1.1.6
+tornado==4.4.2
