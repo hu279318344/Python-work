@@ -3,4 +3,8 @@ PycharmProjects/hello/__pycache__/
 /PycharmProjects/
 .idea/vcs.xml
 PycharmProjects/Task/123.py
-!/PycharmProjects/
+/PycharmProjects/
+/PycharmProjects/Task/
+Would skip repository PycharmProjects/Task/Task_2017/
+/PycharmProjects/Task/Task_2017/
+/PycharmProjects/hello/
